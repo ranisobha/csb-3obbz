@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://ranisobha.github.io/csb-3obbz/static/css/main.1ed4b007.chunk.css",
+    "main.js": "https://ranisobha.github.io/csb-3obbz/static/js/main.dcb2be9d.chunk.js",
+    "main.js.map": "https://ranisobha.github.io/csb-3obbz/static/js/main.dcb2be9d.chunk.js.map",
+    "runtime-main.js": "https://ranisobha.github.io/csb-3obbz/static/js/runtime-main.212892b9.js",
+    "runtime-main.js.map": "https://ranisobha.github.io/csb-3obbz/static/js/runtime-main.212892b9.js.map",
+    "static/css/2.77cf4ef6.chunk.css": "https://ranisobha.github.io/csb-3obbz/static/css/2.77cf4ef6.chunk.css",
+    "static/js/2.aeb16d41.chunk.js": "https://ranisobha.github.io/csb-3obbz/static/js/2.aeb16d41.chunk.js",
+    "static/js/2.aeb16d41.chunk.js.map": "https://ranisobha.github.io/csb-3obbz/static/js/2.aeb16d41.chunk.js.map",
+    "index.html": "https://ranisobha.github.io/csb-3obbz/index.html",
+    "static/css/2.77cf4ef6.chunk.css.map": "https://ranisobha.github.io/csb-3obbz/static/css/2.77cf4ef6.chunk.css.map",
+    "static/css/main.1ed4b007.chunk.css.map": "https://ranisobha.github.io/csb-3obbz/static/css/main.1ed4b007.chunk.css.map",
+    "static/js/2.aeb16d41.chunk.js.LICENSE.txt": "https://ranisobha.github.io/csb-3obbz/static/js/2.aeb16d41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.212892b9.js",
+    "static/css/2.77cf4ef6.chunk.css",
+    "static/js/2.aeb16d41.chunk.js",
+    "static/css/main.1ed4b007.chunk.css",
+    "static/js/main.dcb2be9d.chunk.js"
+  ]
+}
